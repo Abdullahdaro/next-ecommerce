@@ -3,7 +3,7 @@ import React from 'react';
 const Pages: React.FC = () => {
     return (
         <div>
-            {/* Your page content goes here */}
+            <h1>Pages</h1>
         </div>
     );
 };
